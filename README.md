@@ -1,9 +1,9 @@
-<ul>
+
 <li>This simple simulation shows how random sampling can help estimate mathematical constants like &pi;.</li>
 <li><b>The more points you use, the more accurate your estimate becomes.</b></li>
 <li>The method visually and mathematically demonstrates how probability and geometry are connected.</li>
 <li>Monte Carlo simulations are powerful tools for solving problems that are hard to calculate directly, using randomness and statistics.</li>
-</ul>
+
 <h3>Manual Monte Carlo Probability Calculation for π Estimation</h3>
 
 <p>Let's compute with <b>4 example points</b> in the unit square [0,1]×[0,1]:</p>
