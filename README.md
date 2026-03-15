@@ -1,3 +1,4 @@
+<h1>IITM Statistics 2 Extra Activity</h1>
 
 <li>This simple simulation shows how random sampling can help estimate mathematical constants like &pi;.</li>
 <li><b>The more points you use, the more accurate your estimate becomes.</b></li>
